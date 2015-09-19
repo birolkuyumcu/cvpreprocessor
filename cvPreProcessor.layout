@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="Fl_MatrixReader.cpp" open="1" top="1" tabpos="5">
+		<Cursor position="2615" topLine="67" />
+	</File>
+	<File name="Fl_MatrixReader.h" open="1" top="0" tabpos="6">
+		<Cursor position="503" topLine="0" />
+	</File>
+	<File name="Fl_OpenCV.cxx" open="1" top="0" tabpos="2">
+		<Cursor position="2624" topLine="129" />
+	</File>
+	<File name="Fl_OpenCV.h" open="1" top="0" tabpos="1">
+		<Cursor position="309" topLine="59" />
+	</File>
+	<File name="cvPreProcessor.cxx" open="1" top="0" tabpos="4">
+		<Cursor position="100730" topLine="3355" />
+	</File>
+	<File name="cvutility.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="1025" topLine="0" />
+	</File>
+	<File name="cvutility.h" open="1" top="0" tabpos="7">
+		<Cursor position="213" topLine="0" />
+	</File>
+	<File name="datatypes.h" open="1" top="0" tabpos="3">
+		<Cursor position="1481" topLine="43" />
+	</File>
+</CodeBlocks_layout_file>

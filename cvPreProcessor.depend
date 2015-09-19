@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1227593942 source:c:\projects\cvpreprocessor\fl_opencv.cxx
+	<FL/Fl.H>
+	<FL/fl_draw.H>
+	"Fl_OpenCV.h"
+
+1219374938 c:\projects\cvpreprocessor\fl_opencv.h
+	<FL/Fl_Widget.H>
+	<FL/fl_ask.H>
+	<cv.h>
+	<highgui.h>
+
+1237710658 source:c:\projects\cvpreprocessor\cvpreprocessor.cxx
+	"cvPreProcessor.h"
+
+1237710658 c:\projects\cvpreprocessor\cvpreprocessor.h
+	<FL/Fl.H>
+	"math.h"
+	<FL/Fl_File_Chooser.H>
+	<FL/Fl_Chart.H>
+	<FL/Fl_Color_Chooser.H>
+	<FL/fl_ask.H>
+	<FL/fl_draw.H>
+	"Fl_OpenCV.H"
+	"Fl_MatrixReader.h"
+	"datatypes.h"
+	"cvutility.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Menu_Bar.H>
+	<FL/Fl_Browser.H>
+	<FL/Fl_Return_Button.H>
+	<FL/Fl_Spinner.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Round_Button.H>
+	<FL/Fl_Value_Slider.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_Value_Input.H>
+	<FL/Fl_Value_Output.H>
+	<FL/Fl_Dial.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Counter.H>
+
+1237708563 c:\projects\cvpreprocessor\datatypes.h
+
+1237708210 c:\projects\cvpreprocessor\fl_matrixreader.h
+	<FL/Fl.H>
+	<FL/Fl_Scroll.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Float_Input.H>
+
+1237710557 source:c:\projects\cvpreprocessor\fl_matrixreader.cpp
+	"Fl_MatrixReader.h"
+	<stdlib.h>
+	<stdio.h>
+
+1232868933 c:\projects\cvpreprocessor\cvutility.h
+	<cxcore.h>
+
+1232869234 source:c:\projects\cvpreprocessor\cvutility.cpp
+	<cv.h>
+
